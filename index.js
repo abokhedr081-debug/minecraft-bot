@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
   host: 'TK_COMMUNITY.aternos.me',
-  port: 64764,
+  port: 44588,
   username: 'AfnBot'
 });
 
